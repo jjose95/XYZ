@@ -30,19 +30,6 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-//Leaaaaaaa
-//Pruebaaaaaaaaaaaa
-
-//Auxiliooooooooooooooooooooooooo
-//Auxilioooooooooooooooooo
-
-
-//Aiuuudaaaaaaaa
-//Aiuuuuuuddaaaaaa
-
-//Cambios en master Juanjo
-//cambio1
-
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
@@ -59,9 +46,6 @@ fun GreetingPreview() {
     }
 }
 
-//Master Diego
-
-
-//Master Diego II
+//Cambioooo
 
 
