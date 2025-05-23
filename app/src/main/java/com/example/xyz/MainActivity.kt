@@ -30,18 +30,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-//Leaaaaaaa
-//Pruebaaaaaaaaaaaa
 
-//Auxiliooooooooooooooooooooooooo
-//Auxilioooooooooooooooooo
-
-
-//Aiuuudaaaaaaaa
-//Aiuuuuuuddaaaaaa
-
-//Cambios en master Juanjo
-//cambio1
 
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
@@ -59,11 +48,7 @@ fun GreetingPreview() {
     }
 }
 
-//Master Diego
+//Comentarios prueba dia 2
 
-
-//Master Diego II
-
-//Prueba de mastering en diego dia 2
 
 
