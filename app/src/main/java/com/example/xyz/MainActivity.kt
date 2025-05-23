@@ -30,6 +30,8 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+
+
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
@@ -46,6 +48,7 @@ fun GreetingPreview() {
     }
 }
 
-//Cambioooo
+//Comentarios prueba dia 22222
+
 
 
